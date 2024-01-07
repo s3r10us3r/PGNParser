@@ -7,7 +7,7 @@ namespace PGNParser
     class Program
     {
         public static int MINIMAL_GAME_LENGTH = 30;
-        public static int MOVES_TO_SAVE = 15;
+        public static int MOVES_TO_SAVE = 30;
 
         public static int ERRORS = 0;
         static void Main(string[] args)
