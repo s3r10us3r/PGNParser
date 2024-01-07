@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.34114.132
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PGNParser", "PGNParser.csproj", "{58D6E6CE-1F88-4925-AAB9-66759901F07F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{58D6E6CE-1F88-4925-AAB9-66759901F07F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{58D6E6CE-1F88-4925-AAB9-66759901F07F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{58D6E6CE-1F88-4925-AAB9-66759901F07F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{58D6E6CE-1F88-4925-AAB9-66759901F07F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {75CB36A3-E1DC-4C3F-943F-DDDFEB4C7902}
+	EndGlobalSection
+EndGlobal
