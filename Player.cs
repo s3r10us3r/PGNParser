@@ -53,7 +53,7 @@ namespace PGNParser
                     queens.Remove(square);
                     break;
                 default:
-                    throw new ArgumentException("Invelid piece char!");
+                    throw new ArgumentException("Invalid piece char!");
             }
         }
 
