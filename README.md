@@ -11,7 +11,7 @@ You can use it to create an opening book for your chess engine (that is its main
 - The program will write atmost the number of moves specified as the number of moves saved from each game, default value is 30 so 15 turns.
 
 ## Output
-- After succesful run the app will write out how many games it has saved and how many errors it has ran into.
+- After succesful run, the app will write out how many games it has saved and how many errors it has ran into.
 
 ## Limitations
 - It does not support algebraic chess notation with comments.
